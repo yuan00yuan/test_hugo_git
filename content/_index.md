@@ -1,0 +1,17 @@
++++
+title = "Basics"
+date = 2019-09-05T14:35:39+08:00
+weight = 5
+chapter = true
+pre = "<b>X. </b>"
++++
+
+### Chapter Xiii
+
+# Basics
+
+Discover what this Hugo theme is all about and the core concepts behind it.
+
+
+Lorem Ipsum.
+[code back up](https://github.com/yuan00yuan/aws-dr-samples/blob/master/aws-multi-region-cold-backup/README.md)
